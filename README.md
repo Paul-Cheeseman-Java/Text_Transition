@@ -1,0 +1,13 @@
+## General info
+This project is a small Java application to help me understand the fundamentals of using some of the basic Java I/O classes.  
+	
+## Technologies
+Project is created with:
+* Java
+*  ........
+	
+## Setup
+To run this project, install it locally:
+* .....
+* ........
+* ...........
